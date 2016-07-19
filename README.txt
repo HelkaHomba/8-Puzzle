@@ -1,4 +1,4 @@
-8 PUZZLE
+8-PUZZLE
 
 The world download and resource pack for Redstone Bric-a-brac episode 4: https://youtu.be/Q9R3fe1UAcQ
 
