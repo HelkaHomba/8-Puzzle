@@ -1,6 +1,3 @@
-8-PUZZLE
-
-The world download and resource pack for Redstone Bric-a-brac episode 4: https://youtu.be/Q9R3fe1UAcQ
-
-Folder "8_Puzzle" is the world.
-"8_Puzzle_RP.zip" is the resource pack.
+https://youtu.be/Q9R3fe1UAcQ Minecraft world download.
+Copy the "8_Puzzle" folder to your Minecraft saves folder to open in Minecraft.
+Copy "8_Puzzle_RP.zip" to your Minecraft resourcepacks folder.
